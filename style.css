@@ -556,6 +556,7 @@ header .header2 h3 {
     color: white;
     /* position: relative; */
     overflow: hidden;
+    overflow-y: auto;
 }
 
 .goals-header {
