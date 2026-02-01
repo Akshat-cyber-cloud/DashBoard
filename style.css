@@ -549,11 +549,13 @@ header .header2 h3 {
 
 /* Daily Goals Styles */
 .goals-page .goals-container {
-    height: 90%;
+    height: 90vh;
     width: 100%;
     max-width: 800px;
     margin: 40px auto 0;
     color: white;
+    /* position: relative; */
+    overflow: hidden;
 }
 
 .goals-header {
